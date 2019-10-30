@@ -1,0 +1,9 @@
+{
+   "appName": "potential-fiesta",
+   "deploymentEnv": "DEV",
+   "isDomainApp": false,
+   "description": "Fake Application",
+   "buildPath": "WESB/AsynchApplications/wefdomain",
+   "buildCommand": "mvn clean install -DskipTests",
+   "unitTestsCommand": "mvn test"
+}
