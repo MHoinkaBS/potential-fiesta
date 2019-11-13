@@ -3,7 +3,7 @@
    "deploymentEnv": "DEV",
    "isDomainApp": false,
    "description": "Fake Application",
-   "buildPath": "WESB/AsynchApplications/wefdomain",
+   "buildPath": "potential-fiesta",
    "buildCommand": "mvn clean install -DskipTests",
    "unitTestsCommand": "mvn test",
    "updateDatabase": true
