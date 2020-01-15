@@ -6,5 +6,6 @@
    "buildPath": "potential-fiesta",
    "buildCommand": "mvn clean install -DskipTests",
    "unitTestsCommand": "mvn test",
-   "updateDatabase": true
+   "updateDatabase": true ,
+   "doNotUpdatePomVersion" : false
 }
